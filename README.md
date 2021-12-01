@@ -1,3 +1,3 @@
 # COBOL---School
 COBOL assignments
-Everything saved in word Documents, formatting is a bit off. 
+Unfortunately I lost a bunch of data during this semseter so a lot is just saved as word documents.

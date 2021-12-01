@@ -1,0 +1,154 @@
+DATE:  4/23/2020                         EZ AUTO SALES                           PAGE  1            
+TIME: 10:01 PM                  CUSTOMER SALES SUBTOTAL REPORT                                      
+TYLER SATHER                                                                                        
+
+MAKE --> Chevrolet                                                                                  
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1003   Robert Andrews        10202 WEST 73RD         8/26/2001  $ 7,000.00  DISSAT.               
+  1008   Rafelino Anzio        3495 WELMONT ROAD       9/01/2001  $ 4,560.50  DISSAT.               
+  1041   Bonnie Blondell       1011 BELVIEW DR.        9/04/2001  $ 3,560.50  UNDECIDED             
+  1067   Wayne R. Claflin      4575 HIGHLAND PKWY.     9/01/2001  $ 4,560.50  SATISFIED             
+  2002   Sarah D. Corey        1756 CONKEY ROAD        8/27/2001  $ 6,500.50  DISSAT.               
+  2004   Goodman Cracklin      876 JOE MARTIN RD.      9/01/2001  $14,560.50  DISSAT.               
+  2043   Ralph O. Davies       9809 MORRIS DR.         8/26/2001  $ 3,330.00  DISSAT.               
+  2048   Donna Dennick         5505 GREENE ST.         9/01/2001  $ 6,560.25  DISSAT.               
+  3011   Ester B. Eaton        5520 E. PAYTON ST.      9/01/2001  $13,560.50  DISSAT.               
+  3047   James Flannery        50 W. EAST STREET       9/01/2001  $ 4,500.50  DISSAT.               
+  3062   Tony S. Gennerro      98 W. LINCOLN HWY.      8/30/2001  $ 3,200.50  DISSAT.               
+  3066   Nancy K. Goebel       444 KENNEDY AVE.        9/02/2001  $ 6,430.50  DISSAT.               
+  3098   Roberto Hartnett      56 E. 89TH AVE.         9/05/2001  $ 3,260.40  DISSAT.               
+  4024   Jack Johnson          7645 HOWARD AVE.        9/03/2001  $ 2,560.50  DISSAT.               
+  4046   Charles S. Norris     2529 W. 86TH AVE.       9/05/2001  $ 8,440.00  DISSAT.               
+  4066   Robert B. Reed        455 ENTERPRISE WAY      8/27/2001  $ 7,400.50  DISSAT.               
+  4094   Jack Warner           11223 SUNSET DRIVE      9/04/2001  $ 8,560.50  DISSAT.               
+                                                                  ----------                        
+*  TOTAL OF  17 CARS OF MAKE Chevrolet             SOLD FOR      $108,546.65                        
+
+MAKE --> Dodge Bros.                                                                                
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1063   Martha S. Chelsea     1823 N. ADAMS           8/30/2001  $ 3,500.00  DISSAT.               
+  3043   Wesley Farnsworth     840 DIRT ROAD           9/05/2001  $11,500.00  DISSAT.               
+  4038   Jill Levandowski      52123 ROOSEVELT RD.     8/28/2001  $ 4,300.00  UNDECIDED             
+  4047   Alfred Nowakowski     1991 KING BLVD.         9/01/2001  $ 6,560.50  UNDECIDED             
+  4067   Alonzo Rodriguez      91 W. 114TH NORTH       9/05/2001  $10,500.50  DISSAT.               
+                                                                  ----------                        
+*  TOTAL OF   5 CARS OF MAKE Dodge Bros.           SOLD FOR      $ 36,361.00                        
+
+MAKE --> Ford                                                                                       
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1001   Carl T. Albert        123 EAST STREET         8/25/2001  $ 2,550.00  SATISFIED             
+  1031   Jennifer Bezzmek      239 COLORADO ST.        8/27/2001  $ 4,550.00  SATISFIED             
+  1033   Donald Blake          925 LINCOLN HIGHWAY     8/29/2001  $ 7,220.50  UNDECIDED             
+  1056   Fredrick Bymann       349 W. 73RD AVE.        8/29/2001  $ 3,300.00  UNDECIDED             
+  1061   Ronald Calbert        2021 CRESTWOOD DR.      9/05/2001  $ 3,550.00  SATISFIED             
+  1080   Johnathan Cooper      7021 CONGRESS PKWY.     9/05/2001  $12,560.00  SATISFIED             
+  2031   David P. Dalton       6621 183RD AVE.         8/25/2001  $ 2,340.00  SATISFIED             
+  2091   Rita Dunlop           8008 W. 93RD AVE.       8/25/2001  $14,500.45  SATISFIED             
+  3003   Cynthia Dykes         9420 STATE RD. 49       8/26/2001  $ 4,100.50  UNDECIDED             DATE:  4/23/2020                         EZ AUTO SALES                           PAGE  2            
+TIME: 10:01 PM                  CUSTOMER SALES SUBTOTAL REPORT                                      
+TYLER SATHER                                                                                        
+
+MAKE --> Ford                                                                                       
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  3026   David Eppley          659 WISCONSIN ST.       8/28/2001  $ 4,140.00  UNDECIDED             
+  3031   Rosa Erkle            2850 ROSEMONT ROAD      9/03/2001  $ 3,550.20  SATISFIED             
+  3061   Clarence Gallagher    4521 MANARD ROAD        9/04/2001  $10,060.00  SATISFIED             
+  4021   Raymond Idzior        109 WASHINGTON ST.      9/01/2001  $14,600.00  SATISFIED             
+  4022   William Jennings      774 N. JEFFERSON        8/26/2001  $ 6,120.40  UNDECIDED             
+  4044   Arnold E. Metz        1414 VIRGINIA ST.       9/01/2001  $13,230.00  SATISFIED             
+  4061   Shamus Perry          515 BEVERLY STREET      9/05/2001  $ 8,950.00  SATISFIED             
+  4084   Martin Torrez         391 MONROE, APT. 12     8/27/2001  $ 5,650.00  SATISFIED             
+  4090   Mark Tuttle           905 APPLE ORCHARD       8/29/2001  $ 7,100.50  UNDECIDED             
+                                                                  ----------                        
+*  TOTAL OF  18 CARS OF MAKE Ford                  SOLD FOR      $128,072.55                        
+
+MAKE --> Hudson                                                                                     
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1025   Alfred A. Avery       45 W. GRAND BLVD.       8/29/2001  $ 2,300.00  UNDECIDED             
+  1076   Richard L. Colwell    542 OAKLAND CIRCLE      8/29/2001  $ 4,300.00  UNDECIDED             
+  2024   Izore M. Cyborg       456 LAKESHORE DR.       9/05/2001  $ 1,300.00  UNDECIDED             
+  2085   Radar O. Doppler      1212 BUCKLEY ROAD       8/30/2001  $ 3,110.00  UNDECIDED             
+  3056   David Furnace         404 EASY STREET         8/29/2001  $ 5,300.00  UNDECIDED             
+  3094   Jonathon Hancock      3101 CHECKER ST.        9/03/2001  $ 3,300.00  UNDECIDED             
+  4012   Janet F. Hyatt        98 BAKER STREET         8/30/2001  $ 1,550.00  UNDECIDED             
+  4059   Lenni R. Patterson    1020 BUTTERFIELD RD.    8/29/2001  $ 2,500.00  UNDECIDED             
+                                                                  ----------                        
+*  TOTAL OF   8 CARS OF MAKE Hudson                SOLD FOR      $ 23,660.00                        
+
+MAKE --> Pierce-Arrow                                                                               
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1010   William B. Ashley     4502 ASHLEY DRIVE       9/02/2001  $12,400.00  SATISFIED             
+  1045   James Bonadio         23W. 123 NORTH          9/03/2001  $11,500.00  SATISFIED             
+  1070   Charles C. Cole       879 MISSISSIPPI ST.     9/02/2001  $10,500.00  SATISFIED             
+  2011   Timothy Crawford      2122 HOWARD ST.         9/01/2001  $10,400.00  SATISFIED             
+  2050   Deanna Derbin         401 TAFT ST.            9/02/2001  $16,400.25  SATISFIED             
+  3015   Baily Effley          2200 BEATTY ST.         9/02/2001  $14,460.45  SATISFIED             
+  3050   Otto J. Foreman       999 RIGHTWAY ROAD       9/02/2001  $ 9,400.00  SATISFIED             
+  3072   Frederick Gunther     707 JOLIET ROAD         9/03/2001  $12,600.00  SATISFIED             
+  4005   Sonia Henning         606 MONUMENT CIRCLE     9/05/2001  $13,050.00  SATISFIED             
+  4032   Robert C. Kulka       8811 CLOVERLEAF         9/04/2001  $ 9,700.00  SATISFIED             
+  4053   Niel O'boyle          4002 WHEELING ROAD      9/03/2001  $15,500.00  SATISFIED             
+  4073   Henry Sanchez         8181 CHESTNUT LANE      9/01/2001  $ 8,300.00  SATISFIED             
+  4115   Yourto Yackley        1185 PINTO STREET       9/04/2001  $10,000.00  SATISFIED             
+                                                                  ----------                        
+*  TOTAL OF  13 CARS OF MAKE Pierce-Arrow          SOLD FOR      $154,210.70                        
+
+MAKE --> Studebaker                                                                                 
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1015   Mark Atkinson         123 NORTH 109TH ST      8/27/2001  $   500.00  UNDECIDED             DATE:  4/23/2020                         EZ AUTO SALES                           PAGE  3            
+TIME: 10:01 PM                  CUSTOMER SALES SUBTOTAL REPORT                                      
+TYLER SATHER                                                                                        
+
+MAKE --> Studebaker                                                                                 
+
+CUSTOMER                                              PURCHASE    PURCHASE    SATIS.                
+NUMBER   CUSTOMER NAME         STREET ADDRESS         DATE        PRICE       RATING                
+-------- --------------------  --------------------   ----------  ---------   --------              
+                                                                                                    
+  1055   Onieda Bucko          4705 AINSWORTH RD.      8/28/2001  $ 2,450.00  UNDECIDED             
+  1075   Thomas Coleman        1903 THOMAS DR.         8/27/2001  $ 1,670.50  UNDECIDED             
+  2012   Raymond Currie        45 N. ASHLAND AVE.      8/28/2001  $ 1,500.25  UNDECIDED             
+  2065   Phillip Donnehue      725 HARRISON AVE.       9/04/2001  $   540.00  UNDECIDED             
+  3025   Amanda Eggerton       12123 HIGHWAY 6         8/29/2001  $ 3,350.00  UNDECIDED             
+  3055   Kathleen Fowler       7808 STURDY ROAD        8/27/2001  $ 2,670.50  UNDECIDED             
+  3080   Marshall Haines       1912 MADISON AVE.       8/29/2001  $ 2,500.25  UNDECIDED             
+  4009   Rogers Hornsby        1792 WHITLEY AVE.       8/25/2001  $ 1,675.00  UNDECIDED             
+  4035   Donald Kurtz          505 HICKEY STREET       8/30/2001  $ 3,450.00  UNDECIDED             
+  4056   Patrick O'brian       4013 CHESTERFIELD       8/30/2001  $ 3,470.50  UNDECIDED             
+  4081   Hector Swartz         20021 MARTIN ROAD       8/28/2001  $   750.25  UNDECIDED             
+                                                                  ----------                        
+*  TOTAL OF  12 CARS OF MAKE Studebaker            SOLD FOR      $ 24,527.25                        
+
+
+                        TOTAL CARS SOLD =  73                                                       
+                        TOTAL PURCHASES = $475,378.15                                               
+
+                              END OF REPORT                                                         

@@ -1,0 +1,7 @@
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\bin\Debug\Ch8.exe
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\bin\Debug\Ch8.pdb
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\bin\Debug\Ch8.VSEX8-3.idy
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\obj\Debug\Ch8.cblprojAssemblyReference.cache
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\obj\Debug\Ch8.VSEX8-3.idy
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\obj\Debug\Ch8.exe
+C:\Users\sathe\Desktop\Mstate\COBOL\Ch8\obj\Debug\Ch8.pdb

@@ -1,0 +1,7 @@
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\obj\Debug\CH7.cblprojAssemblyReference.cache
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\bin\Debug\CH7.exe
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\bin\Debug\CH7.pdb
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\bin\Debug\CH7.VSEX7-2.idy
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\obj\Debug\CH7.VSEX7-2.idy
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\obj\Debug\CH7.exe
+C:\Users\sathe\Desktop\Mstate\COBOL\CH7\obj\Debug\CH7.pdb

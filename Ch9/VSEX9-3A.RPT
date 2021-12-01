@@ -1,0 +1,189 @@
+DATE:  4/29/2020                 EZ AUTO SALES                          PAGE:  1
+TIME:  5:29PM          CUSTOMER SALES TRANSACTION REPORT                        
+TYLER SATHER                                                                    
+
+TRANSACTION RECORD                               MESSAGE                        
+--------------------------------------------     ------------------------------ 
+
+4NN610272001CHEVROLET           044005019940     CUSTOMER NUMBER NOT NUMERIC    
+
+405110152001DODGE BROS.         095005019944     SATISFACTION CODE OUT OF RANGE 
+
+408411072001FORD                0LL5000199L2     PRICE NOT NUMERIC              
+                                                 AUTO YEAR NOT NUMERIC          
+
+II5610212001FORD                000500019951     CUSTOMER NUMBER NOT NUMERIC    
+                                                 PRICE TOO BELOW MINIMUM        
+
+402411012001                    0M5000019950     PRICE NOT NUMERIC              
+
+4035OO302001STUDEBAKER          040000019651     PURCAHSE DATE NOT NUMERIC      
+
+100108272001FORD                035500019952     TRANSACTION POSTED             
+
+100308282001FORD                072000019640     TRANSACTION POSTED             
+
+100810022001HUDSON              050005019932     TRANSACTION POSTED             
+
+101011012001PIERCE-ARROW        105000019350     TRANSACTION POSTED             
+
+101511022001STUDEBAKER          005500019591     TRANSACTION POSTED             
+
+102011022001STUDEBAKER          005500019591     UNMATCHED TRANSACTION          
+
+102509212001STUDEBAKER          028800019551     TRANSACTION POSTED             
+
+103109092001FORD                025500019960     TRANSACTION POSTED             
+
+103309032001HUDSON              120000019562     TRANSACTION POSTED             
+
+104109142001CHEVROLET           034000019860     TRANSACTION POSTED             
+
+104510142001FORD                100000019852     TRANSACTION POSTED             
+
+105511282001STUDEBAKER          035000019661     TRANSACTION POSTED             
+
+105610212001FORD                043000019951     TRANSACTION POSTED             
+
+106110152001DODGE BROS.         130000019962     TRANSACTION POSTED             
+
+106309272001DODGE BROS.         080000019950     TRANSACTION POSTED             
+
+106710312001PIERCE-ARROW        150000019360     TRANSACTION POSTED             
+
+107011122001PIERCE-ARROW        120000019310     TRANSACTION POSTED             
+
+107511222001HUDSON              100000019571     TRANSACTION POSTED             DATE:  4/29/2020                 EZ AUTO SALES                          PAGE:  2
+TIME:  5:29PM          CUSTOMER SALES TRANSACTION REPORT                        
+TYLER SATHER                                                                    
+
+TRANSACTION RECORD                               MESSAGE                        
+--------------------------------------------     ------------------------------ 
+
+107611202001HUDSON              030005019470     TRANSACTION POSTED             
+
+108010232001FORD                090500019952     TRANSACTION POSTED             
+
+200209072001FORD                115000019960     TRANSACTION POSTED             
+
+200411132001CHEVROLET           085000019970     TRANSACTION POSTED             
+
+201110212001PIERCE-ARROW        120000019320     TRANSACTION POSTED             
+
+201210202001PIERCE-ARROW        115002519342     TRANSACTION POSTED             
+
+202410152001HUDSON              033000019531     TRANSACTION POSTED             
+
+203111122001FORD                120000019962     TRANSACTION POSTED             
+
+204311162001STUDEBAKER          130000019660     TRANSACTION POSTED             
+
+204810212001CHEVROLET           110000019960     TRANSACTION POSTED             
+
+205010122001PIERCE-ARROW        140000019342     TRANSACTION POSTED             
+
+206511122001STUDEBAKER          010800019651     TRANSACTION POSTED             
+
+208511092001HUDSON              040000019551     TRANSACTION POSTED             
+
+209110052001FORD                089000019942     TRANSACTION POSTED             
+
+300309292001FORD                070000019941     TRANSACTION POSTED             
+
+301110222001CHEVROLET           110000019970     TRANSACTION POSTED             
+
+301511212001PIERCE-ARROW        120000019272     TRANSACTION POSTED             
+
+302509192001STUDEBAKER          062000019661     TRANSACTION POSTED             
+
+302611252001STUDEBAKER          043000019961     TRANSACTION POSTED             
+
+303111132001PIERCE-ARROW        130000019332     TRANSACTION POSTED             
+
+304310252001DODGE BROS.         090000019950     TRANSACTION POSTED             
+
+304710212001CHEVROLET           050000019940     TRANSACTION POSTED             
+
+305011052001PIERCE-ARROW        105000019312     TRANSACTION POSTED             
+
+305509172001AUBURN              130000019291     TRANSACTION POSTED             
+
+305611092001HUDSON              070000019571     TRANSACTION POSTED             DATE:  4/29/2020                 EZ AUTO SALES                          PAGE:  3
+TIME:  5:29PM          CUSTOMER SALES TRANSACTION REPORT                        
+TYLER SATHER                                                                    
+
+TRANSACTION RECORD                               MESSAGE                        
+--------------------------------------------     ------------------------------ 
+
+306110222001FORD                110000019960     TRANSACTION POSTED             
+
+306210102001CHEVROLET           045000019950     TRANSACTION POSTED             
+
+306609222001AUBURN              140900019330     TRANSACTION POSTED             
+
+307210242001PIERCE-ARROW        146000019322     TRANSACTION POSTED             
+
+308011212001STUDEBAKER          060000019631     TRANSACTION POSTED             
+
+309410132001HUDSON              050000019571     TRANSACTION POSTED             
+
+309410132001HUDSON              040000019571     DUPLICATE TRANSACTION          
+
+309811142001HUDSON              042000019520     TRANSACTION POSTED             
+
+400510252001PIERCE-ARROW        120000019262     TRANSACTION POSTED             
+
+400911202001AUBURN              110000019341     TRANSACTION POSTED             
+
+401210122001HUDSON              045000019551     TRANSACTION POSTED             
+
+402111112001FORD                087000019950     TRANSACTION POSTED             
+
+402210172001FORD                068000019931     TRANSACTION POSTED             
+
+403210282001PIERCE-ARROW        120000019352     TRANSACTION POSTED             
+
+403810082001DODGE BROS.         036000019891     TRANSACTION POSTED             
+
+404411092001STUDEBAKER          100000019662     TRANSACTION POSTED             
+
+404711122001DODGE BROS.         030000019891     TRANSACTION POSTED             
+
+404910212001DODGE BROS.         060000019951     UNMATCHED TRANSACTION          
+
+405309232001PIERCE-ARROW        130000019370     TRANSACTION POSTED             
+
+405609282001STUDEBAKER          050000019631     TRANSACTION POSTED             
+
+405910202001AUBURN              100000019351     TRANSACTION POSTED             
+
+406111172001FORD                075000019952     TRANSACTION POSTED             
+
+406611072001CHEVROLET           080005019960     TRANSACTION POSTED             
+
+406711252001DODGE BROS.         110000019960     TRANSACTION POSTED             
+
+407310262001PIERCE-ARROW        098000019292     TRANSACTION POSTED             DATE:  4/29/2020                 EZ AUTO SALES                          PAGE:  4
+TIME:  5:29PM          CUSTOMER SALES TRANSACTION REPORT                        
+TYLER SATHER                                                                    
+
+TRANSACTION RECORD                               MESSAGE                        
+--------------------------------------------     ------------------------------ 
+
+408111272001STUDEBAKER          040000019641     TRANSACTION POSTED             
+
+408411072001FORD                050000019940     TRANSACTION POSTED             
+
+409010092001FORD                082000019951     TRANSACTION POSTED             
+
+409410142001CHEVROLET           035000019930     TRANSACTION POSTED             
+
+411510232001PIERCE-ARROW        120000019320     TRANSACTION POSTED             
+
+
+                       TOTAL BAD TRANSACTIONS       =    6                      
+                       TOTAL POSTED TRANSACTIONS    =   70                      
+                       TOTAL UNMATCHED TRANSACTIONS =    2                      
+                       TOTAL DUPLICATE TRANSACTIONS =    1                      
+
+                                  END OF REPORT                                 
